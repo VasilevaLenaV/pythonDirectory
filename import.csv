@@ -1,0 +1,5 @@
+fullname;birthDate;jobPosition;department;tel;email;status
+Иванов;11/11/2022;Programmist;Test;79001001212;imail@mail.ru;Работает
+Петров;11/11/2022;Аналитик;Test;79001001213;imail1@mail.ru;Работает
+Сидоров;11/11/2022;Менеджер;Test;79001001214;imail2@mail.ru;Работает
+Капакин;11/11/2022;Менеджер;Test;79001001255;imail3@mail.ru;Работает
